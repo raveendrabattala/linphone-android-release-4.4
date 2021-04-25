@@ -44,6 +44,7 @@ public class CallButton extends ImageView implements OnClickListener, AddressAwa
 
         mIsTransfer = false;
         setOnClickListener(this);
+        //comments
     }
 
     public void setAddressWidget(AddressText a) {
